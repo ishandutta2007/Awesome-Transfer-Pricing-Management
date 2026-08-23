@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Orbitax](https://www.orbitax.com/)**  
-
-  Comprehensive global tax and transfer pricing platform offering documentation, benchmarking, CbCR, and cross-border compliance tools for multinationals.
-
-
-
-- **[ONESOURCE Transfer Pricing (Thomson Reuters)](https://tax.thomsonreuters.com/)**  
-
-  Enterprise-grade transfer pricing solution covering documentation workflows, operational TP calculations, benchmarking, and global regulatory compliance with strong audit support.
-
-
-
-- **[Longview Tax (insightsoftware)](https://insightsoftware.com/)**  
-
-  Tax provision and transfer pricing platform focused on data consolidation, segmented reporting, profitability analysis, and operational transfer pricing automation.
-
-
-
-- **[Exactera](https://www.exactera.com/)**  
-
-  AI-powered transfer pricing platform that automates documentation, benchmarking, and generation of audit-ready reports aligned with local regulations.
-
-
-
-- **[Corptax](https://www.corptax.com/)**  
-
-  Corporate tax compliance and provision platform with transfer pricing capabilities used by large multinationals for US and global tax processes.
-
-
-
-- **[Alteryx Transfer Pricing solutions](https://www.alteryx.com/)**  
-
-  Analytics and automation platform frequently used by tax teams to build custom transfer pricing data pipelines, calculations, and reporting workflows.
-
-
-
-- **[TaxModel](https://www.taxmodel.com/)**  
-
-  Transfer pricing and tax technology solutions focused on documentation, compliance, and process automation.
-
-
-
-- **[TaxCalc Enterprise / related enterprise tax tools](https://www.taxcalc.com/)**  
-
-  Enterprise tax calculation and compliance platforms that support complex multi-entity and transfer pricing scenarios in certain markets.
-
-
-
-- **[Deloitte TP Catalyst](https://www2.deloitte.com/)**  
-
-  Deloitte’s technology-enabled transfer pricing platform supporting documentation, analytics, and compliance processes for clients.
-
-
-
-- **[KPMG Digital Gateway / TP tools](https://kpmg.com/)**  
-
-  KPMG’s digital tax and transfer pricing technology offerings for documentation, benchmarking, and operational transfer pricing.
+| Product / Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Orbitax](https://www.orbitax.com/)** | Comprehensive global tax and transfer pricing platform offering documentation, benchmarking, CbCR, and cross-border compliance tools for multinationals. | Starting at **$199/month** ($2,388/year) for XatBot AI Tax Assistant; base enterprise platform modules start at **$25,000/year**. | **Free Forever Tier**: 5 queries/day on XatBot AI, free Pillar Two Compliance Accelerator & footprint mapping; **7-day free trial** for paid plans. |
+| **[ONESOURCE Transfer Pricing (Thomson Reuters)](https://tax.thomsonreuters.com/)** | Enterprise-grade transfer pricing solution covering documentation workflows, operational TP calculations, benchmarking, and global regulatory compliance with strong audit support. | Starting at **$35,000/year** for base named-user TP compliance modules (enterprise deployments typically start at **$50,000/year**). | **14-day to 30-day free trial** for ONESOURCE Analyzer Suite/Global Trade modules (single-user sandbox dataset; no free-forever plan). |
+| **[Longview Tax (insightsoftware)](https://insightsoftware.com/)** | Tax provision and transfer pricing platform focused on data consolidation, segmented reporting, profitability analysis, and operational transfer pricing automation. | Starting at **$20,000/year** for operational tax provision and transfer pricing core platform licensing. | **14-day guided trial** (sandbox environment with sample multi-entity datasets and 1 admin seat; no free-forever plan). |
+| **[Exactera](https://www.exactera.com/)** | AI-powered transfer pricing platform that automates documentation, benchmarking, and generation of audit-ready reports aligned with local regulations. | Starting at **$15,400/year** for Exactera Transfer Pricing module ($20,000/year for Tax Provision). | **Free Forever**: Free TP Risk Assessment consultation & compliance gap report; **14-day trial** available on request. |
+| **[Corptax (CSC)](https://www.corptax.com/)** | Corporate tax compliance and provision platform with transfer pricing capabilities used by large multinationals for US and global tax processes. | Starting at **$40,000/year** for standard corporate tax compliance and TP modules (average package ~$80,000/year). | **14-day proof-of-concept trial** (test corporate structure datasets, restricted export capabilities; no free-forever plan). |
+| **[Alteryx Transfer Pricing solutions](https://www.alteryx.com/)** | Analytics and automation platform frequently used by tax teams to build custom transfer pricing data pipelines, calculations, and reporting workflows. | Starting at **$3,000/user/year** (Alteryx One Starter / Cloud Designer) or **$5,195/user/year** (Designer Desktop). | **30-day free trial** (unlimited workflow runs on Designer Desktop/Cloud for 1 user seat); **1-year free license** for students/educators via SparkED. |
+| **[TaxModel (TPdoc)](https://www.taxmodel.com/)** | Transfer pricing and tax technology solutions focused on documentation, compliance, and process automation. | Starting at **€2,500/year** (~$2,700/year) for standard single-entity Local File / TPdoc generation. | **30-day free trial** (full access to TPdoc Word-first documentation workflow with demo MNE dataset; no free-forever plan). |
+| **[TaxCalc Enterprise](https://www.taxcalc.com/)** | Enterprise tax calculation and compliance platforms that support complex multi-entity and transfer pricing scenarios in certain markets. | Starting at **£142/year** (~$185/year) for Corporation Tax (banded from **£164/year** for 12 clients up to **£1,050/year** for 1,000 clients; 2 concurrent users). | **14-day free trial** (full access to Corporation Tax and Accounts Production; filing disabled and output watermarked; no free-forever plan). |
+| **[Deloitte TP Catalyst](https://www2.deloitte.com/)** | Deloitte’s technology-enabled transfer pricing platform supporting documentation, analytics, and compliance processes for clients. | Starting at **£350/user/year** (~$450/year) for baseline TP Catalyst search access; full corporate benchmarking starting at **$15,000/year**. | **7-day free trial** via Moody's/BvD portal (includes access to comparable search module and 5 sample benchmarking company exports). |
+| **[KPMG Digital Gateway / TP tools](https://kpmg.com/)** | KPMG’s digital tax and transfer pricing technology offerings for documentation, benchmarking, and operational transfer pricing. | Starting at **$25,000/year** for individual Digital Gateway tax automation & transfer pricing solution modules. | **90-day free trial** for select Digital Gateway generative AI and tax data components (guided pilot sandbox for up to 5 users). |
 
 
 
